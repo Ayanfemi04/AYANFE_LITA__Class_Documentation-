@@ -48,4 +48,8 @@ EDA aims art exploring the data gathered to answer some questions such as;
 
    2.Altering, dropping, truncating and joining tables
 
+  ```SQL
+  SELECT *FROM TABLE 1
+  WHERE MALE >= 20
+
 
