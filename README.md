@@ -26,5 +26,26 @@ The data set for analysis will be selected form open sources freely downloaded f
 - SQL- Structured Query Language for querying data
 
 - Github for petfolio building
+
+### Data Cleaning and Preparation
+At this stage of data cleaning,we perform the following
+1. Data loading and Inspection
+2. Handling missing variables
+3. Data cleaning and formatting
  
+### Exploratory Data Analysis
+EDA aims art exploring the data gathered to answer some questions such as;
+
+- Microsoft Excel
+
+   1.What is the total,average, lowest or highest salary of a given set?
+
+   2. What is the overall sales trend in a given set?
+
+- SQL
+
+   1.Writing queries  to create customer and employee table
+
+   2.Altering, dropping, truncating and joining tables
+
 
