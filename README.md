@@ -1,5 +1,16 @@
-# AYANFE_LITA__Class_Documentation-
+# AYANFE_LITA__Class_Documentation
 
-##project Title : Data Analysis
+## Project Title: Data Analysis
 
-###Overview
+[Project Overview](project_ovrview)
+
+[Data Sources](data_sources)
+
+[Tools used](tools-used)
+
+[Data Cleaning and Visualization](data_cleaning_and_visualization)
+
+### project overview
+This project is primarily aimed at acquiring knowledge and skills on data analysis, and also outlining my Data Analysis journey with LITA, starting from EXCEL Class through Ham SQL Class to POWERBI...all anchored by seasoned lecturers.
+ 
+
